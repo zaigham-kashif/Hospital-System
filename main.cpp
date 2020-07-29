@@ -459,7 +459,7 @@ int main()
 		else if (option != 0)
 		{
 			system("CLS");
-			cout << "	*****Invalid Option Selected*****" << endl;
+			cout << "	***Invalid Option Selected***" << endl;
 			cout << endl;
 			cout << endl;
 		}
